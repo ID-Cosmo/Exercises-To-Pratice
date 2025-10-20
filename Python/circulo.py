@@ -3,9 +3,6 @@
 #computador calcula a area, area=pi.r**2
 #computador mostra o resultado
 
-
-#teste
-
 import matplotlib.pyplot as plt
 import numpy as np #trabalha com arrays e operações vetorizadas, calculos com listas de numeros
 #import math , funções matematicas basicas
